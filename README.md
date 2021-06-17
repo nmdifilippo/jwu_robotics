@@ -12,6 +12,6 @@ This research is focuses on robots and how they perform tasks and interact with 
 ## Opportunities
 This lab group is seeking motivated undergraduate student's to assist with the research projects. Interested students should contact Professor DiFilippo (ndifilippo@jwu.edu).
 
-##Supporting Funding
+## Supporting Funding
 2021 - Provost Accelerator Award
 

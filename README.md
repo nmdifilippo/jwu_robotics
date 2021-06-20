@@ -3,7 +3,7 @@
 ## Research
 This research is focuses on robots and how they perform tasks and interact with their environment.
 
-##Members
+## Members
 - Professor Nick DiFilippo (PI)
 - Craig Sampson (F21)
 - Abdullah Alsalmi (F21)
